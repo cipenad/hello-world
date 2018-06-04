@@ -1,2 +1,3 @@
 # hello-world
-Cool
+Christian Peña La Paz, Bolivia
+Introducción a Linux 
